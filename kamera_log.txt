@@ -1,0 +1,284 @@
+[2025-06-08 15:30:05] 🟢 Kamera K-Beykent: Beykent → 38 yolcu. Sefer gerekmez.
+[2025-06-08 15:30:05] 🟢 Kamera K-Beylikdüzü: Beylikdüzü → 70 yolcu. Sefer gerekmez.
+[2025-06-08 15:30:05] 🔴 Kamera K-Beylikdüzü_Belediyesi: Beylikdüzü Belediyesi → 115 yolcu. Sefer gerekli.
+[2025-06-08 15:33:11] 🟢 Kamera K-Beykent: Beykent → 66 yolcu. Sefer gerekmez.
+[2025-06-08 15:33:11] 🟢 Kamera K-Beylikdüzü: Beylikdüzü → 59 yolcu. Sefer gerekmez.
+[2025-06-08 15:33:11] 🟢 Kamera K-Beylikdüzü_Belediyesi: Beylikdüzü Belediyesi → 67 yolcu. Sefer gerekmez.
+[2025-06-08 15:33:11] ⛔️ Kamera K-Beylikdüzü_Son_Durak: Beylikdüzü Son Durak → 76 yolcu. Sefer gerekli.
+[2025-06-08 15:35:00] 🟢 Kamera K-Beykent: Beykent → 49 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:00] 🟢 Kamera K-Beylikdüzü: Beylikdüzü → 51 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:00] 🟢 Kamera K-Beylikdüzü_Belediyesi: Beylikdüzü Belediyesi → 36 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:00] ⛔️ Kamera K-Beylikdüzü_Son_Durak: Beylikdüzü Son Durak → 71 yolcu. Sefer gerekli.
+[2025-06-08 15:35:00] [15:35] Kamera K-Beylikdüzü_Son_Durak → M10 (34 MKS 359) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 15:35:02] ⛔️ Kamera K-Çağlayan: Çağlayan → 108 yolcu. Sefer gerekli.
+[2025-06-08 15:35:02] [15:35] Kamera K-Çağlayan → M6 (34 UO 1420) araci Çağlayan durağından geçti.
+[2025-06-08 15:35:04] 🟢 Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 26 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:04] 🟢 Kamera K-Cevizlibağ: Cevizlibağ → 47 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:04] ⛔️ Kamera K-Cihangi-Üniversite_Mahallesi: Cihangi-Üniversite Mahallesi → 118 yolcu. Sefer gerekli.
+[2025-06-08 15:35:04] [15:35] Kamera K-Cihangi-Üniversite_Mahallesi → M6 (34 UO 1420) araci Cihangi-Üniversite Mahallesi durağından geçti.
+[2025-06-08 15:35:06] ⛔️ Kamera K-Cumhuriyet: Cumhuriyet → 115 yolcu. Sefer gerekli.
+[2025-06-08 15:35:06] [15:35] Kamera K-Cumhuriyet → M18 (34 TN 1728) araci Cumhuriyet durağından geçti.
+[2025-06-08 15:35:08] 🟢 Kamera K-Darülaceze-Perpa: Darülaceze-Perpa → 50 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:08] ⛔️ Kamera K-Edirnekapı: Edirnekapı → 81 yolcu. Sefer gerekli.
+[2025-06-08 15:35:08] [15:35] Kamera K-Edirnekapı → M4 (34 FHK 672) araci Edirnekapı durağından geçti.
+[2025-06-08 15:35:10] ⛔️ Kamera K-Fikirtepe: Fikirtepe → 105 yolcu. Sefer gerekli.
+[2025-06-08 15:35:10] [15:35] Kamera K-Fikirtepe → M1 (34 TR 7109) araci Fikirtepe durağından geçti.
+[2025-06-08 15:35:12] ⛔️ Kamera K-Florya: Florya → 103 yolcu. Sefer gerekli.
+[2025-06-08 15:35:12] [15:35] Kamera K-Florya → M19 (34 FK 3570) araci Florya durağından geçti.
+[2025-06-08 15:35:14] 🟢 Kamera K-Güzelyurt: Güzelyurt → 23 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:14] 🟢 Kamera K-Halıcıoğlu: Halıcıoğlu → 41 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:14] 🟢 Kamera K-Haramidere: Haramidere → 33 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:14] 🟢 Kamera K-Haramidere_Sanayi: Haramidere Sanayi → 51 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:14] 🟢 Kamera K-İncirli: İncirli → 67 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:14] ⛔️ Kamera K-Küçükçekmece: Küçükçekmece → 112 yolcu. Sefer gerekli.
+[2025-06-08 15:35:14] [15:35] Kamera K-Küçükçekmece → M17 (34 PKN 142) araci Küçükçekmece durağından geçti.
+[2025-06-08 15:35:16] ⛔️ Kamera K-Maltepe: Maltepe → 97 yolcu. Sefer gerekli.
+[2025-06-08 15:35:16] [15:35] Kamera K-Maltepe → M15 (34 SDG 547) araci Maltepe durağından geçti.
+[2025-06-08 15:35:18] 🟢 Kamera K-Mecidiyeköy: Mecidiyeköy → 24 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:18] 🟢 Kamera K-Merter: Merter → 56 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:18] ⛔️ Kamera K-Mustafa_Kemal_Paşa: Mustafa Kemal Paşa → 78 yolcu. Sefer gerekli.
+[2025-06-08 15:35:18] [15:35] Kamera K-Mustafa_Kemal_Paşa → M20 (34 SSS 398) araci Mustafa Kemal Paşa durağından geçti.
+[2025-06-08 15:35:20] ⛔️ Kamera K-Okmeydanı: Okmeydanı → 83 yolcu. Sefer gerekli.
+[2025-06-08 15:35:20] [15:35] Kamera K-Okmeydanı → M14 (61 EYP 611) araci Okmeydanı durağından geçti.
+[2025-06-08 15:35:22] ⛔️ Kamera K-Okmeydanı_Hastanesi: Okmeydanı Hastanesi → 99 yolcu. Sefer gerekli.
+[2025-06-08 15:35:22] [15:35] Kamera K-Okmeydanı_Hastanesi → M14 (61 EYP 611) araci Okmeydanı Hastanesi durağından geçti.
+[2025-06-08 15:35:24] 🟢 Kamera K-Saadetdere_Mahallesi: Saadetdere Mahallesi → 65 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:24] ⛔️ Kamera K-Sefaköy: Sefaköy → 91 yolcu. Sefer gerekli.
+[2025-06-08 15:35:24] [15:35] Kamera K-Sefaköy → M3 (34 AA 2375) araci Sefaköy durağından geçti.
+[2025-06-08 15:35:26] ⛔️ Kamera K-Şirinevler: Şirinevler → 113 yolcu. Sefer gerekli.
+[2025-06-08 15:35:26] [15:35] Kamera K-Şirinevler → M3 (34 AA 2375) araci Şirinevler durağından geçti.
+[2025-06-08 15:35:28] 🟢 Kamera K-Söğütlüçeşme: Söğütlüçeşme → 32 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:28] ⛔️ Kamera K-Büyükşehir_Belediyesi_Sosyal_Tesisleri: Büyükşehir Belediyesi Sosyal Tesisleri → 115 yolcu. Sefer gerekli.
+[2025-06-08 15:35:28] [15:35] Kamera K-Büyükşehir_Belediyesi_Sosyal_Tesisleri → M3 (34 AA 2375) araci Büyükşehir Belediyesi Sosyal Tesisleri durağından geçti.
+[2025-06-08 15:35:30] ⛔️ Kamera K-Şükrübey: Şükrübey → 94 yolcu. Sefer gerekli.
+[2025-06-08 15:35:30] [15:35] Kamera K-Şükrübey → M11 (34 ERT 522) araci Şükrübey durağından geçti.
+[2025-06-08 15:35:32] ⛔️ Kamera K-Topkapı-Şehit_Mustafa_Cambaz: Topkapı-Şehit Mustafa Cambaz → 72 yolcu. Sefer gerekli.
+[2025-06-08 15:35:32] [15:35] Kamera K-Topkapı-Şehit_Mustafa_Cambaz → M6 (34 UO 1420) araci Topkapı-Şehit Mustafa Cambaz durağından geçti.
+[2025-06-08 15:35:34] ⛔️ Kamera K-Uzunçayır: Uzunçayır → 104 yolcu. Sefer gerekli.
+[2025-06-08 15:35:34] [15:35] Kamera K-Uzunçayır → M14 (61 EYP 611) araci Uzunçayır durağından geçti.
+[2025-06-08 15:35:36] ⛔️ Kamera K-Yenibosna: Yenibosna → 116 yolcu. Sefer gerekli.
+[2025-06-08 15:35:36] [15:35] Kamera K-Yenibosna → M14 (61 EYP 611) araci Yenibosna durağından geçti.
+[2025-06-08 15:35:38] 🟢 Kamera K-Zeytinburnu: Zeytinburnu → 21 yolcu. Sefer gerekmez.
+[2025-06-08 15:35:38] ⛔️ Kamera K-Zincirlikuyu: Zincirlikuyu → 92 yolcu. Sefer gerekli.
+[2025-06-08 15:35:38] [15:35] Kamera K-Zincirlikuyu → M3 (34 AA 2375) araci Zincirlikuyu durağından geçti.
+[2025-06-08 15:36:10] 🟢 Kamera K-Beykent: Beykent → 51 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:10] ⛔️ Kamera K-Beylikdüzü: Beylikdüzü → 118 yolcu. Sefer gerekli.
+[2025-06-08 15:36:10] [15:36] Kamera K-Beylikdüzü → M12 (34 RNG 987) araci Beylikdüzü durağından geçti.
+[2025-06-08 15:36:12] 🟢 Kamera K-Beylikdüzü_Belediyesi: Beylikdüzü Belediyesi → 31 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:12] 🟢 Kamera K-Beylikdüzü_Son_Durak: Beylikdüzü Son Durak → 69 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:12] 🟢 Kamera K-Çağlayan: Çağlayan → 61 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:12] ⛔️ Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 82 yolcu. Sefer gerekli.
+[2025-06-08 15:36:12] [15:36] Kamera K-Cennet_Mahallesi → M17 (34 PKN 142) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 15:36:14] ⛔️ Kamera K-Cevizlibağ: Cevizlibağ → 73 yolcu. Sefer gerekli.
+[2025-06-08 15:36:14] [15:36] Kamera K-Cevizlibağ → M18 (34 TN 1728) araci Cevizlibağ durağından geçti.
+[2025-06-08 15:36:16] 🟢 Kamera K-Cihangi-Üniversite_Mahallesi: Cihangi-Üniversite Mahallesi → 33 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:16] ⛔️ Kamera K-Cumhuriyet: Cumhuriyet → 113 yolcu. Sefer gerekli.
+[2025-06-08 15:36:16] [15:36] Kamera K-Cumhuriyet → M11 (34 ERT 522) araci Cumhuriyet durağından geçti.
+[2025-06-08 15:36:18] 🟢 Kamera K-Darülaceze-Perpa: Darülaceze-Perpa → 53 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:18] 🟢 Kamera K-Edirnekapı: Edirnekapı → 25 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:18] ⛔️ Kamera K-Fikirtepe: Fikirtepe → 78 yolcu. Sefer gerekli.
+[2025-06-08 15:36:18] [15:36] Kamera K-Fikirtepe → M16 (61 EZS 346) araci Fikirtepe durağından geçti.
+[2025-06-08 15:36:20] ⛔️ Kamera K-Florya: Florya → 112 yolcu. Sefer gerekli.
+[2025-06-08 15:36:20] [15:36] Kamera K-Florya → M8 (34 CBN 257) araci Florya durağından geçti.
+[2025-06-08 15:36:22] 🟢 Kamera K-Güzelyurt: Güzelyurt → 53 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:22] ⛔️ Kamera K-Halıcıoğlu: Halıcıoğlu → 111 yolcu. Sefer gerekli.
+[2025-06-08 15:36:22] [15:36] Kamera K-Halıcıoğlu → M11 (34 ERT 522) araci Halıcıoğlu durağından geçti.
+[2025-06-08 15:36:24] 🟢 Kamera K-Haramidere: Haramidere → 51 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:24] 🟢 Kamera K-Haramidere_Sanayi: Haramidere Sanayi → 20 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:24] 🟢 Kamera K-İncirli: İncirli → 44 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:24] ⛔️ Kamera K-Küçükçekmece: Küçükçekmece → 82 yolcu. Sefer gerekli.
+[2025-06-08 15:36:24] [15:36] Kamera K-Küçükçekmece → M16 (61 EZS 346) araci Küçükçekmece durağından geçti.
+[2025-06-08 15:36:26] 🟢 Kamera K-Maltepe: Maltepe → 52 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:26] 🟢 Kamera K-Mecidiyeköy: Mecidiyeköy → 35 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:26] 🟢 Kamera K-Merter: Merter → 61 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:26] 🟢 Kamera K-Mustafa_Kemal_Paşa: Mustafa Kemal Paşa → 62 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:26] ⛔️ Kamera K-Okmeydanı: Okmeydanı → 109 yolcu. Sefer gerekli.
+[2025-06-08 15:36:26] [15:36] Kamera K-Okmeydanı → M9 (34 ASD 891) araci Okmeydanı durağından geçti.
+[2025-06-08 15:36:28] ⛔️ Kamera K-Okmeydanı_Hastanesi: Okmeydanı Hastanesi → 101 yolcu. Sefer gerekli.
+[2025-06-08 15:36:28] [15:36] Kamera K-Okmeydanı_Hastanesi → M6 (34 UO 1420) araci Okmeydanı Hastanesi durağından geçti.
+[2025-06-08 15:36:30] 🟢 Kamera K-Saadetdere_Mahallesi: Saadetdere Mahallesi → 57 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:30] 🟢 Kamera K-Sefaköy: Sefaköy → 45 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:30] ⛔️ Kamera K-Şirinevler: Şirinevler → 95 yolcu. Sefer gerekli.
+[2025-06-08 15:36:30] [15:36] Kamera K-Şirinevler → M9 (34 ASD 891) araci Şirinevler durağından geçti.
+[2025-06-08 15:36:32] ⛔️ Kamera K-Söğütlüçeşme: Söğütlüçeşme → 72 yolcu. Sefer gerekli.
+[2025-06-08 15:36:32] [15:36] Kamera K-Söğütlüçeşme → M8 (34 CBN 257) araci Söğütlüçeşme durağından geçti.
+[2025-06-08 15:36:34] 🟢 Kamera K-Büyükşehir_Belediyesi_Sosyal_Tesisleri: Büyükşehir Belediyesi Sosyal Tesisleri → 41 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:34] 🟢 Kamera K-Şükrübey: Şükrübey → 32 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:34] ⛔️ Kamera K-Topkapı-Şehit_Mustafa_Cambaz: Topkapı-Şehit Mustafa Cambaz → 91 yolcu. Sefer gerekli.
+[2025-06-08 15:36:34] [15:36] Kamera K-Topkapı-Şehit_Mustafa_Cambaz → M8 (34 CBN 257) araci Topkapı-Şehit Mustafa Cambaz durağından geçti.
+[2025-06-08 15:36:36] ⛔️ Kamera K-Uzunçayır: Uzunçayır → 81 yolcu. Sefer gerekli.
+[2025-06-08 15:36:36] [15:36] Kamera K-Uzunçayır → M1 (34 TR 7109) araci Uzunçayır durağından geçti.
+[2025-06-08 15:36:38] 🟢 Kamera K-Yenibosna: Yenibosna → 57 yolcu. Sefer gerekmez.
+[2025-06-08 15:36:38] ⛔️ Kamera K-Zeytinburnu: Zeytinburnu → 112 yolcu. Sefer gerekli.
+[2025-06-08 15:36:38] [15:36] Kamera K-Zeytinburnu → M17 (34 PKN 142) araci Zeytinburnu durağından geçti.
+[2025-06-08 15:36:40] ⛔️ Kamera K-Zincirlikuyu: Zincirlikuyu → 105 yolcu. Sefer gerekli.
+[2025-06-08 15:36:40] [15:36] Kamera K-Zincirlikuyu → M7 (34 HKS 616) araci Zincirlikuyu durağından geçti.
+[2025-06-08 15:40:06] ⛔️ Kamera K-Beykent: Beykent → 78 yolcu. Sefer gerekli.
+[2025-06-08 15:40:06] [15:40] Kamera K-Beykent → M5 (34 HKL 443) araci Beykent durağından geçti.
+[2025-06-08 15:40:08] ⛔️ Kamera K-Beylikdüzü: Beylikdüzü → 94 yolcu. Sefer gerekli.
+[2025-06-08 15:40:08] [15:40] Kamera K-Beylikdüzü → M13 (34 BNO 658) araci Beylikdüzü durağından geçti.
+[2025-06-08 15:40:10] 🟢 Kamera K-Beylikdüzü_Belediyesi: Beylikdüzü Belediyesi → 23 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:10] ⛔️ Kamera K-Beylikdüzü_Son_Durak: Beylikdüzü Son Durak → 78 yolcu. Sefer gerekli.
+[2025-06-08 15:40:10] [15:40] Kamera K-Beylikdüzü_Son_Durak → M5 (34 HKL 443) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 15:40:12] 🟢 Kamera K-Çağlayan: Çağlayan → 45 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:12] 🟢 Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 24 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:12] 🟢 Kamera K-Cevizlibağ: Cevizlibağ → 24 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:12] 🟢 Kamera K-Cihangi-Üniversite_Mahallesi: Cihangi-Üniversite Mahallesi → 48 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:12] 🟢 Kamera K-Cumhuriyet: Cumhuriyet → 29 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:12] 🟢 Kamera K-Darülaceze-Perpa: Darülaceze-Perpa → 26 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:12] 🟢 Kamera K-Edirnekapı: Edirnekapı → 30 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:12] ⛔️ Kamera K-Fikirtepe: Fikirtepe → 107 yolcu. Sefer gerekli.
+[2025-06-08 15:40:12] [15:40] Kamera K-Fikirtepe → M12 (34 RNG 987) araci Fikirtepe durağından geçti.
+[2025-06-08 15:40:14] ⛔️ Kamera K-Florya: Florya → 75 yolcu. Sefer gerekli.
+[2025-06-08 15:40:14] [15:40] Kamera K-Florya → M20 (34 SSS 398) araci Florya durağından geçti.
+[2025-06-08 15:40:16] 🟢 Kamera K-Güzelyurt: Güzelyurt → 50 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:16] 🟢 Kamera K-Halıcıoğlu: Halıcıoğlu → 21 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:16] 🟢 Kamera K-Haramidere: Haramidere → 70 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:16] ⛔️ Kamera K-Haramidere_Sanayi: Haramidere Sanayi → 102 yolcu. Sefer gerekli.
+[2025-06-08 15:40:16] [15:40] Kamera K-Haramidere_Sanayi → M19 (34 FK 3570) araci Haramidere Sanayi durağından geçti.
+[2025-06-08 15:40:18] ⛔️ Kamera K-İncirli: İncirli → 74 yolcu. Sefer gerekli.
+[2025-06-08 15:40:18] [15:40] Kamera K-İncirli → M11 (34 ERT 522) araci İncirli durağından geçti.
+[2025-06-08 15:40:20] ⛔️ Kamera K-Küçükçekmece: Küçükçekmece → 75 yolcu. Sefer gerekli.
+[2025-06-08 15:40:20] [15:40] Kamera K-Küçükçekmece → M5 (34 HKL 443) araci Küçükçekmece durağından geçti.
+[2025-06-08 15:40:22] ⛔️ Kamera K-Maltepe: Maltepe → 115 yolcu. Sefer gerekli.
+[2025-06-08 15:40:22] [15:40] Kamera K-Maltepe → M13 (34 BNO 658) araci Maltepe durağından geçti.
+[2025-06-08 15:40:24] 🟢 Kamera K-Mecidiyeköy: Mecidiyeköy → 66 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:24] 🟢 Kamera K-Merter: Merter → 39 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:24] 🟢 Kamera K-Mustafa_Kemal_Paşa: Mustafa Kemal Paşa → 45 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:24] 🟢 Kamera K-Okmeydanı: Okmeydanı → 49 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:24] 🟢 Kamera K-Okmeydanı_Hastanesi: Okmeydanı Hastanesi → 48 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:24] 🟢 Kamera K-Saadetdere_Mahallesi: Saadetdere Mahallesi → 45 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:24] 🟢 Kamera K-Sefaköy: Sefaköy → 32 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:24] ⛔️ Kamera K-Şirinevler: Şirinevler → 87 yolcu. Sefer gerekli.
+[2025-06-08 15:40:24] [15:40] Kamera K-Şirinevler → M5 (34 HKL 443) araci Şirinevler durağından geçti.
+[2025-06-08 15:40:26] 🟢 Kamera K-Söğütlüçeşme: Söğütlüçeşme → 60 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:26] ⛔️ Kamera K-Büyükşehir_Belediyesi_Sosyal_Tesisleri: Büyükşehir Belediyesi Sosyal Tesisleri → 75 yolcu. Sefer gerekli.
+[2025-06-08 15:40:26] [15:40] Kamera K-Büyükşehir_Belediyesi_Sosyal_Tesisleri → M1 (34 TR 7109) araci Büyükşehir Belediyesi Sosyal Tesisleri durağından geçti.
+[2025-06-08 15:40:28] 🟢 Kamera K-Şükrübey: Şükrübey → 64 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:28] 🟢 Kamera K-Topkapı-Şehit_Mustafa_Cambaz: Topkapı-Şehit Mustafa Cambaz → 62 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:28] 🟢 Kamera K-Uzunçayır: Uzunçayır → 35 yolcu. Sefer gerekmez.
+[2025-06-08 15:40:28] ⛔️ Kamera K-Yenibosna: Yenibosna → 90 yolcu. Sefer gerekli.
+[2025-06-08 15:40:28] [15:40] Kamera K-Yenibosna → M7 (34 HKS 616) araci Yenibosna durağından geçti.
+[2025-06-08 15:40:30] ⛔️ Kamera K-Zeytinburnu: Zeytinburnu → 78 yolcu. Sefer gerekli.
+[2025-06-08 15:40:30] [15:40] Kamera K-Zeytinburnu → M2 (34 GPA 220) araci Zeytinburnu durağından geçti.
+[2025-06-08 15:40:32] 🟢 Kamera K-Zincirlikuyu: Zincirlikuyu → 39 yolcu. Sefer gerekmez.
+[2025-06-08 19:18:52] 🟢 Kamera K-Beylikdüzü: Beylikdüzü → 49 yolcu. Sefer gerekmez.
+[2025-06-08 19:18:52] 🟢 Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 31 yolcu. Sefer gerekmez.
+[2025-06-08 19:18:52] ⛔️ Kamera K-Yenibosna: Yenibosna → 115 yolcu. Sefer gerekli.
+[2025-06-08 19:18:52] [19:18] Kamera K-Beylikdüzü → M15 (34 SDG 547) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:18:53] [19:18] Kamera K-Cennet_Mahallesi → M15 (34 SDG 547) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:18:54] [19:18] Kamera K-Yenibosna → M15 (34 SDG 547) araci Yenibosna durağından geçti.
+[2025-06-08 19:18:56] 🟢 Kamera K-Zincirlikuyu: Zincirlikuyu → 69 yolcu. Sefer gerekmez.
+[2025-06-08 19:19:01] ⛔️ Kamera K-Beylikdüzü: Beylikdüzü → 106 yolcu. Sefer gerekli.
+[2025-06-08 19:19:01] [19:19] Kamera K-Beylikdüzü → M4 (34 FHK 672) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:19:03] 🟢 Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 56 yolcu. Sefer gerekmez.
+[2025-06-08 19:19:03] 🟢 Kamera K-Yenibosna: Yenibosna → 55 yolcu. Sefer gerekmez.
+[2025-06-08 19:19:03] 🟢 Kamera K-Zincirlikuyu: Zincirlikuyu → 68 yolcu. Sefer gerekmez.
+[2025-06-08 19:19:14] ⛔️ Kamera K-Beylikdüzü: Beylikdüzü → 78 yolcu. Sefer gerekli.
+[2025-06-08 19:19:14] [19:19] Kamera K-Beylikdüzü → M1 (34 TR 7109) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:19:16] 🟢 Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 50 yolcu. Sefer gerekmez.
+[2025-06-08 19:19:16] ⛔️ Kamera K-Yenibosna: Yenibosna → 114 yolcu. Sefer gerekli.
+[2025-06-08 19:19:16] [19:19] Kamera K-Beylikdüzü → M17 (34 PKN 142) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:19:17] [19:19] Kamera K-Cennet_Mahallesi → M17 (34 PKN 142) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:19:18] [19:19] Kamera K-Yenibosna → M17 (34 PKN 142) araci Yenibosna durağından geçti.
+[2025-06-08 19:19:20] 🟢 Kamera K-Zincirlikuyu: Zincirlikuyu → 40 yolcu. Sefer gerekmez.
+[2025-06-08 19:19:46] 🟢 Kamera K-Beylikdüzü: Beylikdüzü → 60 yolcu. Sefer gerekmez.
+[2025-06-08 19:19:46] 🟢 Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 61 yolcu. Sefer gerekmez.
+[2025-06-08 19:19:46] ⛔️ Kamera K-Yenibosna: Yenibosna → 109 yolcu. Sefer gerekli.
+[2025-06-08 19:19:46] [19:19] Kamera K-Beylikdüzü → M9 (34 ASD 891) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:19:47] [19:19] Kamera K-Cennet_Mahallesi → M9 (34 ASD 891) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:19:48] [19:19] Kamera K-Yenibosna → M9 (34 ASD 891) araci Yenibosna durağından geçti.
+[2025-06-08 19:19:50] ⛔️ Kamera K-Zincirlikuyu: Zincirlikuyu → 98 yolcu. Sefer gerekli.
+[2025-06-08 19:19:50] [19:19] Kamera K-Beylikdüzü → M10 (34 MKS 359) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:19:51] [19:19] Kamera K-Cennet_Mahallesi → M10 (34 MKS 359) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:19:52] [19:19] Kamera K-Yenibosna → M10 (34 MKS 359) araci Yenibosna durağından geçti.
+[2025-06-08 19:19:53] [19:19] Kamera K-Zincirlikuyu → M10 (34 MKS 359) araci Zincirlikuyu durağından geçti.
+[2025-06-08 19:55:54] ⛔️ Kamera K-Beylikdüzü: Beylikdüzü → 74 yolcu. Sefer gerekli.
+[2025-06-08 19:55:54] [19:55] Kamera K-Beylikdüzü → M19 (34 FK 3570) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:55:56] ⛔️ Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 85 yolcu. Sefer gerekli.
+[2025-06-08 19:55:56] [19:55] Kamera K-Beylikdüzü → M4 (34 FHK 672) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:55:57] [19:55] Kamera K-Cennet_Mahallesi → M4 (34 FHK 672) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:55:59] 🟢 Kamera K-Yenibosna: Yenibosna → 61 yolcu. Sefer gerekmez.
+[2025-06-08 19:55:59] ⛔️ Kamera K-Zincirlikuyu: Zincirlikuyu → 97 yolcu. Sefer gerekli.
+[2025-06-08 19:55:59] [19:55] Kamera K-Beylikdüzü → M17 (34 PKN 142) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:56:00] [19:56] Kamera K-Cennet_Mahallesi → M17 (34 PKN 142) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:56:01] [19:56] Kamera K-Yenibosna → M17 (34 PKN 142) araci Yenibosna durağından geçti.
+[2025-06-08 19:56:02] [19:56] Kamera K-Zincirlikuyu → M17 (34 PKN 142) araci Zincirlikuyu durağından geçti.
+[2025-06-08 19:56:06] ⛔️ Kamera K-Beylikdüzü: Beylikdüzü → 75 yolcu. Sefer gerekli.
+[2025-06-08 19:56:06] [19:56] Kamera K-Beylikdüzü → M2 (34 GPA 220) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:56:32] 🟢 Kamera K-Beylikdüzü: Beylikdüzü → 36 yolcu. Sefer gerekmez.
+[2025-06-08 19:56:32] 🟢 Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 60 yolcu. Sefer gerekmez.
+[2025-06-08 19:56:32] 🟢 Kamera K-Yenibosna: Yenibosna → 36 yolcu. Sefer gerekmez.
+[2025-06-08 19:56:32] ⛔️ Kamera K-Zincirlikuyu: Zincirlikuyu → 115 yolcu. Sefer gerekli.
+[2025-06-08 19:56:32] [19:56] Kamera K-Beylikdüzü → M7 (34 HKS 616) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:56:33] [19:56] Kamera K-Cennet_Mahallesi → M7 (34 HKS 616) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:56:34] [19:56] Kamera K-Yenibosna → M7 (34 HKS 616) araci Yenibosna durağından geçti.
+[2025-06-08 19:56:35] [19:56] Kamera K-Zincirlikuyu → M7 (34 HKS 616) araci Zincirlikuyu durağından geçti.
+[2025-06-08 19:57:34] 🟢 Kamera K-Beylikdüzü: Beylikdüzü → 27 yolcu. Sefer gerekmez.
+[2025-06-08 19:57:34] ⛔️ Kamera K-Cennet_Mahallesi: Cennet Mahallesi → 57 yolcu. Sefer gerekli.
+[2025-06-08 19:57:34] [19:57] Kamera K-Beylikdüzü → M7 (34 HKS 616) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:57:35] [19:57] Kamera K-Cennet_Mahallesi → M7 (34 HKS 616) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:57:37] ⛔️ Kamera K-Yenibosna: Yenibosna → 76 yolcu. Sefer gerekli.
+[2025-06-08 19:57:37] [19:57] Kamera K-Beylikdüzü → M15 (34 SDG 547) araci Beylikdüzü durağından geçti.
+[2025-06-08 19:57:38] [19:57] Kamera K-Cennet_Mahallesi → M15 (34 SDG 547) araci Cennet Mahallesi durağından geçti.
+[2025-06-08 19:57:39] [19:57] Kamera K-Yenibosna → M15 (34 SDG 547) araci Yenibosna durağından geçti.
+[2025-06-08 19:57:41] ⛔️ Kamera K-Zincirlikuyu: Zincirlikuyu → 69 yolcu. Sefer gerekli.
+[2025-06-08 19:57:41] [19:57] Kamera K-Beylikdüzü → M6 (34 UO 1420) araci Beylikdüzü durağından geçti.
+[2025-06-08 20:06:54] ⛔️ Kamera K-Beylikdüzü_Son_Durak: Beylikdüzü Son Durak → 118 yolcu. Sefer gerekli.
+[2025-06-08 20:06:54] [20:06] Kamera K-Beylikdüzü_Son_Durak → M2 (34 GPA 220) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:06:56] 🟢 Kamera K-Beykent: Beykent → 25 yolcu. Sefer gerekmez.
+[2025-06-08 20:06:56] ⛔️ Kamera K-Beylikdüzü_Belediyesi: Beylikdüzü Belediyesi → 61 yolcu. Sefer gerekli.
+[2025-06-08 20:06:56] [20:06] Kamera K-Beylikdüzü_Son_Durak → M10 (34 MKS 359) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:06:57] [20:06] Kamera K-Beykent → M10 (34 MKS 359) araci Beykent durağından geçti.
+[2025-06-08 20:06:58] [20:06] Kamera K-Beylikdüzü_Belediyesi → M10 (34 MKS 359) araci Beylikdüzü Belediyesi durağından geçti.
+[2025-06-08 20:07:00] ⛔️ Kamera K-Beylikdüzü: Beylikdüzü → 98 yolcu. Sefer gerekli.
+[2025-06-08 20:07:00] [20:07] Kamera K-Beylikdüzü_Son_Durak → M7 (34 HKS 616) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:07:01] [20:07] Kamera K-Beykent → M7 (34 HKS 616) araci Beykent durağından geçti.
+[2025-06-08 20:07:02] [20:07] Kamera K-Beylikdüzü_Belediyesi → M7 (34 HKS 616) araci Beylikdüzü Belediyesi durağından geçti.
+[2025-06-08 20:07:03] [20:07] Kamera K-Beylikdüzü → M7 (34 HKS 616) araci Beylikdüzü durağından geçti.
+[2025-06-08 20:07:05] 🟢 Kamera K-Güzelyurt: Güzelyurt → 49 yolcu. Sefer gerekmez.
+[2025-06-08 20:07:05] ⛔️ Kamera K-Haramidere: Haramidere → 62 yolcu. Sefer gerekli.
+[2025-06-08 20:07:05] [20:07] Kamera K-Beylikdüzü_Son_Durak → M9 (34 ASD 891) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:07:06] [20:07] Kamera K-Beykent → M9 (34 ASD 891) araci Beykent durağından geçti.
+[2025-06-08 20:07:07] [20:07] Kamera K-Beylikdüzü_Belediyesi → M9 (34 ASD 891) araci Beylikdüzü Belediyesi durağından geçti.
+[2025-06-08 20:07:08] [20:07] Kamera K-Beylikdüzü → M9 (34 ASD 891) araci Beylikdüzü durağından geçti.
+[2025-06-08 20:07:09] [20:07] Kamera K-Güzelyurt → M9 (34 ASD 891) araci Güzelyurt durağından geçti.
+[2025-06-08 20:07:10] [20:07] Kamera K-Haramidere → M9 (34 ASD 891) araci Haramidere durağından geçti.
+[2025-06-08 20:07:12] ⛔️ Kamera K-Haramidere_Sanayi: Haramidere Sanayi → 75 yolcu. Sefer gerekli.
+[2025-06-08 20:07:12] [20:07] Kamera K-Beylikdüzü_Son_Durak → M19 (34 FK 3570) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:07:13] [20:07] Kamera K-Beykent → M19 (34 FK 3570) araci Beykent durağından geçti.
+[2025-06-08 20:07:14] [20:07] Kamera K-Beylikdüzü_Belediyesi → M19 (34 FK 3570) araci Beylikdüzü Belediyesi durağından geçti.
+[2025-06-08 20:07:15] [20:07] Kamera K-Beylikdüzü → M19 (34 FK 3570) araci Beylikdüzü durağından geçti.
+[2025-06-08 20:07:16] [20:07] Kamera K-Güzelyurt → M19 (34 FK 3570) araci Güzelyurt durağından geçti.
+[2025-06-08 20:07:17] [20:07] Kamera K-Haramidere → M19 (34 FK 3570) araci Haramidere durağından geçti.
+[2025-06-08 20:07:18] [20:07] Kamera K-Haramidere_Sanayi → M19 (34 FK 3570) araci Haramidere Sanayi durağından geçti.
+[2025-06-08 20:07:20] 🟢 Kamera K-Saadetdere_Mahallesi: Saadetdere Mahallesi → 45 yolcu. Sefer gerekmez.
+[2025-06-08 20:07:20] ⛔️ Kamera K-Mustafa_Kemal_Paşa: Mustafa Kemal Paşa → 107 yolcu. Sefer gerekli.
+[2025-06-08 20:07:20] [20:07] Kamera K-Beylikdüzü_Son_Durak → M11 (34 ERT 522) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:07:21] [20:07] Kamera K-Beykent → M11 (34 ERT 522) araci Beykent durağından geçti.
+[2025-06-08 20:07:22] [20:07] Kamera K-Beylikdüzü_Belediyesi → M11 (34 ERT 522) araci Beylikdüzü Belediyesi durağından geçti.
+[2025-06-08 20:07:23] [20:07] Kamera K-Beylikdüzü → M11 (34 ERT 522) araci Beylikdüzü durağından geçti.
+[2025-06-08 20:07:24] [20:07] Kamera K-Güzelyurt → M11 (34 ERT 522) araci Güzelyurt durağından geçti.
+[2025-06-08 20:07:25] [20:07] Kamera K-Haramidere → M11 (34 ERT 522) araci Haramidere durağından geçti.
+[2025-06-08 20:07:26] [20:07] Kamera K-Haramidere_Sanayi → M11 (34 ERT 522) araci Haramidere Sanayi durağından geçti.
+[2025-06-08 20:07:27] [20:07] Kamera K-Saadetdere_Mahallesi → M11 (34 ERT 522) araci Saadetdere Mahallesi durağından geçti.
+[2025-06-08 20:07:28] [20:07] Kamera K-Mustafa_Kemal_Paşa → M11 (34 ERT 522) araci Mustafa Kemal Paşa durağından geçti.
+[2025-06-08 20:07:30] ⛔️ Kamera K-Şükrübey: Şükrübey → 80 yolcu. Sefer gerekli.
+[2025-06-08 20:07:30] [20:07] Kamera K-Beylikdüzü_Son_Durak → M8 (34 CBN 257) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:07:31] [20:07] Kamera K-Beykent → M8 (34 CBN 257) araci Beykent durağından geçti.
+[2025-06-08 20:07:32] [20:07] Kamera K-Beylikdüzü_Belediyesi → M8 (34 CBN 257) araci Beylikdüzü Belediyesi durağından geçti.
+[2025-06-08 20:07:33] [20:07] Kamera K-Beylikdüzü → M8 (34 CBN 257) araci Beylikdüzü durağından geçti.
+[2025-06-08 20:07:34] [20:07] Kamera K-Güzelyurt → M8 (34 CBN 257) araci Güzelyurt durağından geçti.
+[2025-06-08 20:07:35] [20:07] Kamera K-Haramidere → M8 (34 CBN 257) araci Haramidere durağından geçti.
+[2025-06-08 20:07:36] [20:07] Kamera K-Haramidere_Sanayi → M8 (34 CBN 257) araci Haramidere Sanayi durağından geçti.
+[2025-06-08 20:07:37] [20:07] Kamera K-Saadetdere_Mahallesi → M8 (34 CBN 257) araci Saadetdere Mahallesi durağından geçti.
+[2025-06-08 20:07:38] [20:07] Kamera K-Mustafa_Kemal_Paşa → M8 (34 CBN 257) araci Mustafa Kemal Paşa durağından geçti.
+[2025-06-08 20:07:39] [20:07] Kamera K-Şükrübey → M8 (34 CBN 257) araci Şükrübey durağından geçti.
+[2025-06-08 20:11:58] ⛔️ Kamera K-Beylikdüzü_Son_Durak: Beylikdüzü Son Durak → 89 yolcu. Sefer gerekli.
+[2025-06-08 20:11:58] [20:11] Kamera K-Beylikdüzü_Son_Durak → M19 (34 FK 3570) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:12:00] ⛔️ Kamera K-Beykent: Beykent → 91 yolcu. Sefer gerekli.
+[2025-06-08 20:12:00] [20:12] Kamera K-Beylikdüzü_Son_Durak → M10 (34 MKS 359) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:12:17] 🟢 Kamera K-Beylikdüzü_Son_Durak: Beylikdüzü Son Durak → 44 yolcu. Sefer gerekmez.
+[2025-06-08 20:12:17] ⛔️ Kamera K-Beykent: Beykent → 72 yolcu. Sefer gerekli.
+[2025-06-08 20:12:17] [20:12] Kamera K-Beylikdüzü_Son_Durak → M15 (34 SDG 547) araci Beylikdüzü Son Durak durağından geçti.
+[2025-06-08 20:12:18] [20:12] Kamera K-Beykent → M15 (34 SDG 547) araci Beykent durağından geçti.
